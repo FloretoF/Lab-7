@@ -1,5 +1,9 @@
 <current>
+<<<<<<< HEAD
 <city id="548408" name="Киров">
+=======
+<city id="548408" name="Љиров">
+>>>>>>> feature-xml
 <coord lon="49.6601" lat="58.5966"/>
 <country>RU</country>
 <timezone>10800</timezone>
